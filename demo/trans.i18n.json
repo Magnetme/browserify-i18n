@@ -1,7 +1,11 @@
 {
-	"foo" : {
-		"en" : "Foo",
-		"nl" : "Bar"
-	}
+    "landingPage_welcome": {
+        "en": "Welcome",
+        "nl": "Welkom",
+        "sp": "Ola"
+    },
+    "landingPage_bye": {
+        "en": "Goodbye",
+        "nl": "Tot ziens"
+    }
 }
-
